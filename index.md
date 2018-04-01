@@ -7,7 +7,7 @@ title: Naz Malik | Naz Malik
 
 # Naz Malik
 
-Doer of bits and bobs at [Monzo](https://monzo.com/), ex-writer for Canvas and [Music is My Sanctuary](http://www.musicismysanctuary.com/), alumnus of [Makers Academy](http://www.makersacademy.com/) and University College London.
+Do-er of bits and bobs at [Monzo](https://monzo.com/), ex-writer for Canvas and [Music is My Sanctuary](http://www.musicismysanctuary.com/), alumnus of [Makers Academy](http://www.makersacademy.com/) and University College London.
 
 - [Github](https://github.com/nazwhale)
 

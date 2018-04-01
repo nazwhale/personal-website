@@ -1,0 +1,31 @@
+---
+---
+body {
+  font-size: 85%;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  line-height: 1.7;
+  text-align: justify;
+  color: #001c00;
+}
+
+.main {
+  max-width: 700px;
+  margin: 50px auto 50px;
+}
+
+/* Hyperlink styling */
+
+a:link {
+	color: #9eb9a7;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #9eb9a7;
+}
+
+a:hover {
+	color: #fff;
+	background-color: #9eb9a7;
+	text-decoration: none;
+}
