@@ -3,6 +3,8 @@ layout: default
 title: Naz Malik | Blog
 ---
 
+{% include page_head.html %}
+
 # Blog
 
 {% for post in site.categories.tech %}
