@@ -12,6 +12,7 @@ Do-er of bits and bobs at [Monzo](https://monzo.com/), ex-writer for Canvas and 
 Currenly: 
 - Trying to crack React
 - Dipping my toes into Go
+- Getting my head around concurrency
 
 ## Blog
 
