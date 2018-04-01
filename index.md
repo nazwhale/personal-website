@@ -16,7 +16,7 @@ Currenly:
 
 ## Blog
 
-[All posts](/blog.html)
+[All posts](/blog/blog.html)
 {% for post in site.categories.tech limit: 3 %}
 - `{{post.date | date: "%d-%m-%Y"}}` - [{{ post.title }}]({{ post.url }}) {% endfor %}
 
