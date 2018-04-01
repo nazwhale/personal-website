@@ -25,3 +25,9 @@ Currenly:
 - [Tic-Tac-Toe](https://github.com/nazwhale/Tic-Tac-Toe), a command-line game of tic-tac-toe, with an invincible computer player. For the AI, I used the Negamax algorithm with alpha-beta pruning.
 - [Nazbot](https://github.com/nazwhale/nazbot), a Twitter bot that replies to tweets with relevant news articles.
 - [Smart Rockets](https://github.com/nazwhale/smart-rockets), a Twitter bot that replies to tweets with relevant news articles.
+
+---
+  
+ **@**
+[Github](https://github.com/nazwhale/) 
+[Twitter](https://twitter.com/nazwhale/)
