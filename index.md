@@ -28,6 +28,6 @@ Currenly:
 
 ---
   
- **@**
+**@**
 [Github](https://github.com/nazwhale/) 
 [Twitter](https://twitter.com/nazwhale/)

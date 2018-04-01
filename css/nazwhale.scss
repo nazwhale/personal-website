@@ -28,6 +28,16 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left;
 }
 
+/* Image styling */
+
+img {
+  display: block;
+  width: 20%;
+  height: 20%;
+  margin: auto;
+  border-radius: 10%;
+}  
+
 /* Hyperlink styling */
 
 a:link {
